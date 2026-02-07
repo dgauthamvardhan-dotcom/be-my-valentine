@@ -297,8 +297,10 @@ Edit the array (line ~1330):
 ```javascript
 const noBtnTexts = [
     "No",
-    "Are you sure? 🥺",
-    "Pretty please? 🙏",
+    "Are you sure bujiluu? 🥺",
+    "clingyyy![IMG_20251123_204739_112](https://github.com/user-attachments/assets/f55b2741-5120-48ed-ba02-06e2826daece)
+![IMG_20251123_204739_112](https://github.com/user-attachments/assets/a4995a06-fc55-4606-b464-766e8f000df7)
+ please? 🙏",
     // Add your own messages!
 ];
 ```
@@ -346,3 +348,11 @@ This project is open source and available for personal use. Feel free to customi
 <p align="center">
 Made with 💕 by <a href="https://github.com/Srap47">Sohom Banerjee</a>
 </p>
+git clone https://github.com/Srap47/be-my-valentine.git
+cd be-my-valentine
+# Replace photo.jpg with your new image (make sure it's named photo.jpg)
+git add photo.jpg
+git commit -m "Replace photo with new image"
+git push origin main![IMG_20251123_204739_112](https://github.com/user-attachments/assets/53e00a59-c198-4071-be9e-91a97c3c2e4c)
+<img width="641" height="641" alt="image" src="https://github.com/user-attachments/assets/bf820919-ae43-4d52-b602-0c66507bd0bb" />
+
